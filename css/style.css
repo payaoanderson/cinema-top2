@@ -1,0 +1,195 @@
+* {
+    position: relative;
+    text-decoration: none;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.corpo-da-pagina {
+    margin-top: 60px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Vina Sans', sans-serif;
+    background-color: black;
+
+
+}
+
+.container {
+    max-width: 1140px;
+    margin-top: 0px;
+    padding: 0px;
+    margin: 0px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+}
+
+
+#cabecalho {
+    display: flex;
+    margin-left: 150px;
+    color: red;
+    padding-left: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+#cabecalho .home ul {
+    margin-left: 100px;
+
+    padding-left: 15px;
+    border-radius: 15px;
+}
+
+#cabecalho .mais-filmes ul {
+    margin-left: 100px;
+
+    padding-left: 15px;
+    border-radius: 15px;
+}
+
+#cabecalho .planos ul {
+    margin-left: 100px;
+
+    padding-left: 15px;
+    border-radius: 15px;
+}
+
+#cabecalho .categorias ul {
+    margin-left: 90px;
+    margin-top: 40px;
+
+    padding-left: 15px;
+    border-radius: 15px;
+
+}
+
+
+.login {
+    position: static;
+    margin: 15px;
+    background-color: red;
+    margin-left: 500px;
+    padding: 20px;
+    border-radius: 20px;
+
+
+
+
+
+}
+
+
+.Cadastra-se {
+    display: flex;
+    padding: 12px;
+    color: blue;
+    background-color: red;
+    border-radius: 20px;
+}
+
+
+
+
+.banner {
+    margin-left: 150px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: -350px;
+
+
+}
+
+.menu img {
+    justify-content: center;
+    align-items: center;
+    padding: 160px;
+    margin-left: 60px;
+    
+}
+
+
+.menu p {
+    display: flex;
+    position: static;
+    margin-left: -10px;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 1px;
+    border: black;
+    padding-left: 50px;
+
+
+}
+
+
+.rodape {
+    display: flex;
+    padding: 150px;
+    color: red;
+    font-size: 20px;
+    margin-left: 350px;
+    background-color: #181818;
+    padding: 10px;
+    margin-left: -20px;
+    padding-left: 150px;
+    width: 100%;
+}
+
+
+.filmes h1 {
+    padding: 15px;
+    margin-left: -300px;
+}
+
+.filmes a {
+    display: block;
+    margin-left: -280px;
+    margin-bottom: 15px;
+    color: red;
+}
+
+
+.planos {
+    margin-top: 10px;
+    margin-left: -80px;
+}
+
+.planos a {
+    display: block;
+    margin-bottom: 20px;
+    color: red;
+}
+
+
+.politica-privacidade {
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+
+
+.politica-privacidade a {
+    display: block;
+    margin-bottom: 15px;
+    margin-top: 40px;
+    color: red;
+
+}
+
+
+.copy {
+    margin-top: -50px;
+    margin-left: 250px;
+    color: red;
+}
+
+
+
