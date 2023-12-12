@@ -12,7 +12,7 @@
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
-    background-color: black;
+    background-color:back;
 
 
 }
@@ -294,3 +294,115 @@
 }
 
 
+.entrar{
+    
+    color: red;
+    margin-left: 450px;
+    padding: 1px;
+    
+    margin-bottom: 150px;
+    
+    padding-left: -250px;
+}
+
+.form{
+    font-size: 15px;
+    width: 100%;
+    margin-top: -15px;    
+}
+
+.form1{
+    margin-top: 15px;
+
+}
+
+.log-ot{
+    display: block;
+    margin-left: 350px;
+    margin-top: 50px;
+    flex-direction: column-reverse;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+    color: red;
+
+
+}
+
+.form2{
+   display: block;
+   margin-left: 10px;
+   margin-top: 50px;
+}
+
+
+.form3{
+    margin-top: 30px;
+}
+
+
+.e-mail{
+    display: block;
+    margin-left: -1px;
+
+}
+
+
+.sobre{
+    display: block;
+    margin-left: 552px;
+    margin-top: -10px;
+    padding-left: px;
+    color: red;
+
+}
+
+
+.nos{
+    margin-left: 350px;
+}
+
+
+.sobre3{
+    margin-left: -250px;
+}
+
+
+.poli{
+    display: block;
+    margin-top: 15px;
+    color: red;
+    font-size: 20px;
+    
+    
+     
+     
+}
+
+
+.ht{
+    margin-left: 590px;
+}
+
+
+.privacy{
+    position: relative;
+    padding-left: 350px;
+    margin-left: -200px;
+    
+}
+
+
+
+.NO{
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-bottom: 15px;
+    padding-left: 200px;
+    padding-top: 15px;
+    color: red;
+}
+
+.ssa{
+    margin-left: 550px;
+}
