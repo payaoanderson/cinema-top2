@@ -429,3 +429,7 @@
     margin-top: 150px;
     margin-left: 900px;
 }
+
+.film{
+    display: flex;
+}
