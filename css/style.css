@@ -12,7 +12,7 @@
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
-    background-color:black;
+    background-color:blck;
 
 
 }
@@ -433,3 +433,131 @@
 .film{
     display: flex;
 }
+
+
+.container2{
+    color: red;
+    justify-content: center;
+    align-items: center;
+    display: block;
+}
+
+.con{
+    
+    color: red;
+    margin-left: px;
+    margin: 620px;
+    margin-top: 150px;
+    
+    
+
+}
+
+.con{
+    margin-top: -200px;
+}
+
+.contra{
+    display: block;
+    margin-top: 100px;
+    padding: 150px;
+    margin-left: 10px;
+    padding-top: 150px;
+    
+
+
+}
+
+
+.pagamentos{
+    border: 10px solid red;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-top: 50px;    
+}
+
+.pix{
+    border: 10px solid red;
+    border-radius: 20px;
+    font-size: 20px;
+    
+
+}
+
+
+.formularios{
+    display: flex;
+    margin-top: -250px;
+    padding: 50px;
+}
+
+.aceita{
+    margin: 100px;
+    margin-top: -200px;
+    margin-bottom: 100px;
+    
+}
+
+
+.acei{
+    font-size: 15px;
+    border: 10px solid red;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 270px;
+
+}
+
+.p{
+    margin-top: 15px;
+}
+
+.cartao{
+    display: block;
+    margin: 15px;
+    padding: 10px;
+    padding-top: -250px;
+
+}
+
+.car{
+    border: 10px solid red;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+.n{
+    margin-top: 15px;
+}
+
+.o{
+    margin-top: 15px;
+}
+
+.m{
+    margin-top: 15px;
+}
+
+.c{
+    display: block;
+    border: 2px solid red;
+    padding: 5px;
+    margin-top: 20px;
+    background-color: blue;
+    color: red;
+    
+    
+}
+
+
+.h{
+    display: block;
+    border: 2px solid red;
+    padding: 5px;
+    margin-top: 20px;
+    background-color: blue;
+    color: red;
+}
+
+
